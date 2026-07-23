@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="githubbannerreadme" src="https://github.com/user-attachments/assets/19bdebac-7ff2-48d0-88ff-b5608df975da" />
 # 👋 Hi, I'm Jani Qvick
 
 🎮 Founder of **Qvick Games**
