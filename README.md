@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Jani Qvick
 
-<!--
-**janiqvick-hue/janiqvick-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Founder of **Qvick Games**
 
-Here are some ideas to get you started:
+🇫🇮 Game Developer from Finland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build story-driven games, AI companions and immersive interactive experiences using modern game development technologies.
+
+---
+
+## 🚀 Current Projects
+
+### 🎮 Murhamysteeri mökillä – Hiljaisen järven salaisuus
+
+A cinematic Finnish detective game developed as my Bachelor's diploma project.
+
+🕹️ **Play online:**
+https://murhamysteeri-mokilla-hiljaisen-jar-xi.vercel.app/
+
+📦 **Source code:**
+https://github.com/janiqvick-hue/Murhamysteeri-mokilla-hiljaisen-jarven-salaisuus
+
+---
+
+### 🤖 Aurora Qvick Core
+
+Aurora is my long-term AI companion project focused on natural conversations, memory, voice interaction and immersive user experiences.
+
+---
+
+## 🛠️ Technologies
+
+- Unity
+- C#
+- React
+- TypeScript
+- Firebase
+- Git
+- GitHub
+- AI Development
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn
+- GitHub
+
+Thanks for visiting my profile! 🚀
